@@ -1,4 +1,5 @@
-# Elismar Gonçalves - Portfolio
+# Miniprojeto: Single Page Application (SPA, Portfolio)
+Elismar Gonçalves  
 
 ## Setup
 
