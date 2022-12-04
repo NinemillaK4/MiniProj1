@@ -24,4 +24,4 @@ Servidor de inicio de desenvolvimento http://localhost:3000
 npm run dev
 ```
 
-Da uma olhada em  [Documentação](https://v3.nuxtjs.org/guide/deploy/presets) para mais informações.
+Da uma olhada em  [Documentação](https://v3.nuxtjs.org/guide/deploy/presets) para mais informações sobre Nuxt3.
