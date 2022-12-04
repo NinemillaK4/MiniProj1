@@ -3,7 +3,7 @@ Elismar Gonçalves
 
 ## Setup
 
-Tens que instalar esses pacote:
+Instalar :
 
 ```bash
 # yarn
@@ -12,8 +12,6 @@ yarn install
 # npm
 npm install
 
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
 ## Servidor de Desenvolvimento
