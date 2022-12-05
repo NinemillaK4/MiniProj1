@@ -1,6 +1,6 @@
 Elismar Gonçalves
 # Miniprojeto: Single Page Application (SPA, Portfolio)
-Wireframes se encontra no repositorio na localização de raiz (Wireframes.pdf)
+Wireframes se encontra no repositorio, localização de raiz (Wireframes.pdf)
 
 ## Setup
 
